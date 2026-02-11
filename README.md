@@ -11,8 +11,6 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-764ABC?style=flat-square&logo=AmazonAWS&logoColor=white" />
 </p>
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-CCIE&layout=compact&theme=blue-green)
-
 <!--
 **Tony-CCIE/Tony-CCIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
